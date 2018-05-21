@@ -1,6 +1,6 @@
 [
     {
-        "repository": "msdx321/android_device_samsung_star-common",
+        "repository": "harise100/android_device_samsung_star-common",
         "target_path": "device/samsung/star-common",
         "branch": "oreo"
     }
