@@ -4,6 +4,6 @@
 $(call inherit-product, device/samsung/starlte/full_starlte.mk)
 
 # Inherit some common dotOS stuff.
-#$(call inherit-product, vendor/dot/config/common.mk)
+$(call inherit-product, vendor/dot/config/common.mk)
 
 PRODUCT_NAME := dot_starlte
